@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm Prashant</h1>
 <h3 align="center">Data Analyst</h3>
 
+
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 
 - 📫 How to reach me **prashantsingh4828@gmail.com**
@@ -11,9 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-singh-b4338824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-s-68a0571b4" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prashu_kansana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.rasigan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naveen6052531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveen6052531" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<naveen6052531>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<naveen6052531>/profile" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> 
