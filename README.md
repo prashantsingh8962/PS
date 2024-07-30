@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 
-- 📫 How to reach me **prashantsingh4828@gmail.com**
+- 📫 How to reach me **prashantsingh89627@gmail.com**
 
 - ⚡ From solving tickets to decoding datasets: **A Customer Support maestro now thriving as a Data Analyst!**
 
